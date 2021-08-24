@@ -2,7 +2,7 @@
 
 Simple container for pyqtgraph, which allows for the recolorization of images (histological sections, in this usage) using a GUI that I thought I needed to design myself, but had already been done for me :,) (see http://pyqtgraph.org)
 
-![GUI](/assets/gui_use.gif?raw=true)
+![GUI](/Assets/gui_use.gif?raw=true)
 
 ## Installation
 
