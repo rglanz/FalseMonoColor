@@ -36,8 +36,8 @@ If you are using a Unix machine (macOS, Linux), create the following bash script
 >
 >python [your/directory/here]/FalseMonoColor/startup.py
 
-and save it as 'fmc.sh' in your User folder. Change [your/directory/here] to the directory containing FalseMonoColor.
+and save it as 'fmc' (no extension, use 'touch' in terminal if necessary) in your User folder. Change [your/directory/here] to the directory containing FalseMonoColor.
 
-Run the command ```chmod u+x fmc.sh``` in terminal.
+Run the command ```chmod u+x fmc``` in terminal.
 
 From now on, you can launch the GUI by simply typing ```./fmc``` into your terminal.
