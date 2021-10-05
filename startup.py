@@ -1,4 +1,4 @@
-# This Python file uses the following encoding: utf-8
+#!usr/bin/env python3
 
 # Required packages: pyqt5, pyqtgraph, PIL, numpy
 
