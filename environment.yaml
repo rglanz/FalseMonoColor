@@ -3,7 +3,7 @@ name: FalseMonoColor
 dependencies:
   - python=3.7
   - numpy
-  - PIL
+  - pillow
   - pyqtgraph
   - pip
   - pip:
